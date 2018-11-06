@@ -1,3 +1,8 @@
+# 개요
+* 아래 사이트에서 최신 소스를 확인해야함.
+https://github.com/udacity/deep-reinforcement-learning.git
+* 받은 소스를 수정하지 말고, 복사본을 만들어서 연습하고 라이브러리를 만들어야 함.
+
 [//]: # (Image References)
 
 [image1]: https://user-images.githubusercontent.com/10624937/42135602-b0335606-7d12-11e8-8689-dd1cf9fa11a9.gif "Trained Agents"
