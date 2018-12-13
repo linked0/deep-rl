@@ -3,7 +3,13 @@
 [image1]: https://user-images.githubusercontent.com/10624937/42135605-ba0e5f2c-7d12-11e8-9578-86d74e0976f8.gif "Trained Agent"
 
 # Discretization
+### render 오류
+NameError: name 'base' is not defined
 
+Google Colab에서는 위의 오류가 발생함.
+그냥 PC에서 jupyter notebook으로 실행해야함.
+
+## 기존 정보 
 ### Instructions
 
 Follow the instructions in `Discretization.ipynb` to learn how to discretize continuous state spaces, to use tabular solution methods to solve complex tasks. The corresponding solutions can be found in `Discretization_Solution.ipynb`.
