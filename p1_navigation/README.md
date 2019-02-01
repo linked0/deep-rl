@@ -4,6 +4,12 @@
 
 # Project 1: Navigation
 
+## 내 정리 노트
+Gym에서 MuJoCo 관련 앱을 실행하려면, 
+[MuJoCo](https://www.roboti.us/license.html) 설치해야함.
+
+## Udacity Information
+
 ### Introduction
 
 For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.  
